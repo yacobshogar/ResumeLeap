@@ -2,11 +2,9 @@
 <html>
 <head>
 <h1>Yacob M Shogar</h1>
-<img herf ="res.png">
+<img src ="res.png">
 </head>
 <body>
-
-![My picture](res.png)
  Spokane, WA, 99224
 <!-- Tables -->
  Phone:  253-335-2892 \ Email:  yacobshogar@gmail.com 
