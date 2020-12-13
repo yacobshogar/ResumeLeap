@@ -13,8 +13,8 @@
  Phone:  253-335-2892 \ Email:  yacobshogar@gmail.com 
 
 **PROFESSIONAL SUMMARY:** <hr>
-
-     •	Enthusiastic Employee eager to contribute to team success through hard work, attention to detail and excellent organizational skills. Clear understanding of Computer skills and programming and trained in many computer languages. Motivated to learn, grow and excel in the Programming/computer science industry. Effective at supporting team needs with high-quality code, subject matter expertise and collaboration skills. Skilled programmer and complex problem-solver experienced in data analytics and report writing.        
+<p>
+     •	Enthusiastic Employee eager to contribute to team success through hard work, <br> attention to detail and excellent organizational skills. Clear understanding of Computer skills and programming and trained in many computer languages. Motivated to learn, grow and excel in the Programming/computer science industry. <br> Effective at supporting team needs with high-quality code, subject matter expertise and collaboration skills. Skilled programmer and complex problem-solver experienced in data analytics and report writing. </p>       
 
 </body>
 </htmle>
