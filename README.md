@@ -1,4 +1,6 @@
 <h1 align="center"> Yacob M Shogar </h1>
+
+![img](res.png)
 <h3 align="center"> CONTACTS  </h3>
 <h6 align="center"> 253-335-2892  </h6>
 <h6 align="center"> yacobshogar@gmail.com  </h6>
