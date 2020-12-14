@@ -1,6 +1,6 @@
 <h1 align="center"> Yacob M Shogar </h1>
 
-![img](res.png)
+![img align="center" size=100px](res.png)
 <h3 align="center"> CONTACTS  </h3>
 <h6 align="center"> 253-335-2892  </h6>
 <h6 align="center"> yacobshogar@gmail.com  </h6>
@@ -9,12 +9,7 @@
 ------ 
 <h3 align="center"> PROFESSIONAL SUMMARY </h3>
  •	Enthusiastic Employee eager to contribute to team success through hard work, attention to detail and excellent organizational skills. Clear understanding of Computer skills and programming and trained in many computer languages. Motivated to learn, grow and excel in the Programming/computer science industry. Effective at supporting team needs with high-quality code, subject matter expertise and collaboration skills. Skilled programmer and complex problem-solver experienced in data analytics and report writing.
-------
 ------ 
-
-<h3 align="center"> SKILLS IN CODING</h3>
-* Python, HTML 
- Java, JavaScript/CSS
 
 ------ 
 <h3 align="center"> PROFESSIONAL EXPERIENCE </h3>
@@ -56,6 +51,8 @@ June 2016 - August 2016
 **Bachelors of Management Information System.**
 
 **Eastern Washington University.**
+* CourseWork
+* Python, HTML, Java, JavaScript/CSS
 * Member of Alpha Tau Omega.
 
 ------ 
@@ -66,7 +63,6 @@ December 2013 - September 2014
 Arabic, Fur)
 * Member of The World Relief/Lutheran Community Service, Seattle WA Translating In English to Arabic (Africa/Middle Eastern Countries) 
 * Recognized by AVID Program.
-
 
 ------ 
 
