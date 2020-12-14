@@ -4,7 +4,8 @@
 <head>
     <meta Charset="UTF-8">
     <h1>Yacob M Shogar</h1>
-    <title>Resume</title><img src ="res.png" height=75px>
+    <title>Resume</title>
+    <link rel="stylesheet" href="styles.css">
     <script src="https://kit.fontawesome.com/b99e675b6e.js"></script>
 
 </head>
@@ -14,19 +15,18 @@
     <div class="resume">
         <div class="left">
             <div class="img-holder">
-                <img src="res.png" alt="picture" height=300xp>
+                <img src="res.png" alt="picture">
             </div>
-        <div class="contact_wrap"></div>
+        <div class="contact_wrap br"></div>
             <div class="title">Contact</div>
                 <div class="contact">
                 <ul>
                     <li>
                     <div class="li_wrap">
                         <div class="icon">
-                        <i class="fas fa-mobile-alt"></i>
-                            
- </div>
-                        <div class="text">253-335-2892</div>
+            <i class="fasfa-mobile-alt"></i>
+                        </div>
+        <div class="text">253-335-2892</div>
                     </div>
                     </li>
                     <li>
@@ -46,9 +46,13 @@
                     </div>
                     </li>
 </div>
-
+</div>
+<div class="right">
 <p> <Strong>PROFESSIONAL SUMMARY:</Strong><br>
      •	Enthusiastic Employee eager to contribute to team success through hard work,  attention to detail and excellent organizational skills.<br> Clear understanding of Computer skills and programming and trained in many computer languages. Motivated to learn, grow and excel in the Programming/computer science industry. <br> Effective at supporting team needs with high-quality code, subject matter expertise and collaboration skills.<br> Skilled programmer and complex problem-solver experienced in data analytics and report writing. </p>
+            </div>
+
+
      
 <p><Strong>SKILS:<hr></Strong><h3> • Coding Skills:</h3>
 <ul><ls> -Python,</ls>
